@@ -3,9 +3,9 @@
 ! public: true
 ! author: jkhall-25
 
-$discard,site:nightcafe.studio
-$discard,site:craiyon.com
-$discard,site:starryai.com
-$discard,site:lexica.art
-$discard,site:stablediffusionweb.com
-$discard,site:playground.com
+$discard,site=nightcafe.studio
+$discard,site=craiyon.com
+$discard,site=starryai.com
+$discard,site=lexica.art
+$discard,site=stablediffusionweb.com
+$discard,site=playground.com
